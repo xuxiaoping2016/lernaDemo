@@ -1,5 +1,5 @@
 {
-  "name": "@xuxiaoping2018/imooctest",
+  "name": "@webdesigntest/imooctest",
   "version": "1.0.0",
   "description": "执行 lerna init   结果   lerna notice cli v4.0.0   lerna info Creating package.json   lerna info Creating lerna.json   lerna info Creating packages directory   lerna success Initialized Lerna files",
   "main": "index.js",
