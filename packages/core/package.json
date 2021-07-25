@@ -6,6 +6,9 @@
   "homepage": "https://github.com/xuxiaoping2016/lernaDemo/tree/main/packages/core#readme",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin": {
+    "imooc-test-core": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,5 +28,6 @@
   },
   "dependencies": {
     "@xuxiaoping2018/imooctest-utils": "0.0.0"
-  }
+  },
+  "gitHead": "fc39b81e60ff8338a7d19046e80d5cee0e2b7705"
 }
