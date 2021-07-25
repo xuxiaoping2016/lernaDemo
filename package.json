@@ -1,0 +1,22 @@
+{
+  "name": "@xuxiaoping2018/imooctest",
+  "version": "1.0.0",
+  "description": "执行 lerna init   结果   lerna notice cli v4.0.0   lerna info Creating package.json   lerna info Creating lerna.json   lerna info Creating packages directory   lerna success Initialized Lerna files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiaoping2016/lernaDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxiaoping2016/lernaDemo/issues"
+  },
+  "homepage": "https://github.com/xuxiaoping2016/lernaDemo#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

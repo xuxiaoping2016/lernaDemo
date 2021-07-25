@@ -1,0 +1,29 @@
+{
+  "name": "@xuxiaoping2018/imooctest-core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xiaoping.xu <xiaping.xu@weimob.com>",
+  "homepage": "https://github.com/xuxiaoping2016/lernaDemo/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiaoping2016/lernaDemo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/xuxiaoping2016/lernaDemo/issues"
+  },
+  "dependencies": {
+    "@xuxiaoping2018/imooctest-utils": "0.0.0"
+  }
+}
